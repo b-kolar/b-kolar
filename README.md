@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+I'm Brontë, a Czech-Canadian student in the MEng Bioengineering program at UC Berkeley. I completed my BSc in Computer Engineering in the Netherlands at TU Delft and I'm passionate about using computer science to solve problems in biology!
+
 <!--
 **b-kolar/b-kolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+✨
 -->
