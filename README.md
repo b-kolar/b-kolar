@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brontë, a student in the MEng Bioengineering program at UC Berkeley. I completed my BSc in Computer Engineering in the Netherlands at TU Delft and I'm passionate about using computer science to solve problems in biology!
+I'm Brontë, a student in the MEng Bioengineering (computational biology) program at UC Berkeley. I completed my BSc in Computer Engineering in the Netherlands at TU Delft and I'm passionate about using computer science to solve problems in biology!
 
 #### I’m currently learning about:
 - 🌱 cell engineering
